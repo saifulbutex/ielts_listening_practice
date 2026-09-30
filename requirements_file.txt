@@ -1,0 +1,5 @@
+edge-tts>=6.1.9
+pydub>=0.25.1
+ipywidgets>=8.0.0
+ipython>=8.0.0
+nest-asyncio>=1.5.6
